@@ -1,5 +1,5 @@
 
-📱🛒 Mobile Clothing Store & Dashboard
+###📱🛒 Mobile Clothing Store & Dashboard
 
 🎯 Project Overview
 Welcome to our **Mobile Clothing Store & Dashboard** project! This project was developed as a graduation project to provide a smooth shopping experience with easy management of orders, discounts, and payments.
@@ -13,7 +13,7 @@ Welcome to our **Mobile Clothing Store & Dashboard** project! This project was d
 ## 💻 Technologies
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Laravel
-- **Mobile App**: Flutter (for iOS & Android)
+- **Mobile App**: Flutter (for Android)
 
 ## 🚀 Installation & Setup
 
